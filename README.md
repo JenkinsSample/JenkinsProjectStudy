@@ -1,2 +1,3 @@
 # JenkinsProjectStudy
 StudyJenkins
+java -version
